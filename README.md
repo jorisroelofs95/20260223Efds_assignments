@@ -2,4 +2,4 @@
 Essentials for Data Science assignments.
 
 # this is message to my colleague. Can you read this?
-# YES I CAN READ IT!
+# Yes I can read it!
